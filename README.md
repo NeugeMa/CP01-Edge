@@ -52,3 +52,8 @@ Após você conseguir todos os matériais, você pode agora seguir os passos à 
 Dentro deste projeto nós utilizamos o Fotoresistor (LDR) e tendo sua função para detectar a intensidade da luz ambiente. 
 Caso a intensidadeda luz seja inferior ao valor dado, o LED se acenderá e com o Buzzer emitindo som. 
 Já, se a luz for similar/ou a cima ao valor dado, o LED se apagará e já o Buzzer irá parar de emitir som. 
+
+```http 
+Link do projeto, no tinkercad
+https://www.tinkercad.com/things/jdVxU94xoQ3-cp-ldr/editel?returnTo=%2Fthings%2FjdVxU94xoQ3-cp-ldr&sharecode=5x-hFJ-pfgaQSRNYKj1RI7xnkvXSeSJHKyIbBUuy6JM
+```
