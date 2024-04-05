@@ -50,8 +50,8 @@ Após você conseguir todos os matériais, você pode agora seguir os passos à 
 
 ## Explicação de como funciona o projeto:
 Dentro deste projeto nós utilizamos o Fotoresistor (LDR) e tendo sua função para detectar a intensidade da luz ambiente. 
-Caso a intensidadeda luz seja inferior ao valor dado, o LED se acenderá e com o Buzzer emitindo som. 
-Já, se a luz for similar/ou a cima ao valor dado, o LED se apagará e já o Buzzer irá parar de emitir som. 
+Caso a intensidade da luz seja inferior ao valor dado, o LED se apagará e o Buzzer não irá emitir som. 
+Já, se a luz for similar/ou acima ao valor dado, o LED se acenderá e o Buzzer começará a emitir som.
 
 ## Link do projeto (modo simulação)
 ```http 
